@@ -4,7 +4,7 @@ import { ScrollTrigger } from "gsap/all";
 import gsap from "gsap";
 import MessageSection from "./sections/MessageSection";
 import FlavorSection from "./sections/FlavorSection";
-import Flavortitle from "./components/Flavortitle";
+import Flavortitle from "./components/FlavorTitle";
 import FlavorSlider from "./components/FlavorSlider";
 import NutritionSection from "./sections/NutritionSection";
 import BenefitSection from "./sections/BenefitSection";
